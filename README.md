@@ -169,8 +169,8 @@ Test coverage includes:
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Ashley Brookman**
+- GitHub: [@as872832](https://github.com/as872832)
 
 ## 📄 License
 
@@ -179,6 +179,6 @@ MIT License
 ## 📝 Assignment Notes
 
 This project was created for Backend Development Assignment  
-Date: November 2025
+Date: November 9th 2025
 ```
 
