@@ -92,7 +92,8 @@ const sampleBirds = [
     longitude: -82.1426,
     observationDate: new Date('2025-09-14T07:23:00Z'),
     isRare: false
-  }{
+  },
+  {
     speciesCode: 'rehwoo',
     commonName: 'Red-headed Woodpecker',
     scientificName: 'Melanerpes erythrocephalus',
