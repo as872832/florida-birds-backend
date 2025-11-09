@@ -2,17 +2,17 @@
 
 A RESTful API built with Node.js, Express, and MongoDB for managing and analyzing bird observation data in Florida.
 
-## 🔗 GitHub Repository
+## GitHub Repository
 
-https://github.com/YOUR_USERNAME/florida-birds-backend
+https://github.com/as872832/florida-birds-backend
 
 *(You'll update this with your actual GitHub URL later)*
 
-## 📋 Project Description
+## Project Description
 
 This backend system provides CRUD operations for bird observation records and answers eight analytical questions about Florida bird sightings. The API uses MongoDB for data persistence and includes comprehensive unit tests with Jest.
 
-## 🚀 Features
+## Features
 
 - Full CRUD operations for bird observations
 - Eight analytical endpoints answering specific questions about the dataset
@@ -21,7 +21,7 @@ This backend system provides CRUD operations for bird observation records and an
 - Comprehensive unit tests with Jest
 - Error handling and validation
 
-## 📁 Project Structure
+##  Project Structure
 ```
 florida-birds-backend/
 │
@@ -40,7 +40,7 @@ florida-birds-backend/
 └── README.md                # This file
 ```
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 
@@ -84,7 +84,7 @@ florida-birds-backend/
    npm test
 ```
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Base URL
 ```
@@ -114,7 +114,7 @@ http://localhost:3000/api
 | GET `/questions/rare-species-percentage` | What percentage of observations are flagged as rare species? |
 | GET `/questions/widest-distribution` | Which species has the widest geographic distribution? |
 
-## 📝 Example Requests
+## Example Requests
 
 ### Create Observation
 ```json
@@ -144,7 +144,7 @@ GET http://localhost:3000/api/observations
 GET http://localhost:3000/api/questions/highest-observation-species
 ```
 
-## 🧪 Testing
+##  Testing
 
 Run unit tests with:
 ```bash
@@ -157,7 +157,7 @@ Test coverage includes:
 - Error handling
 - Edge cases
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - **Node.js** - JavaScript runtime
 - **Express.js** - Web framework
@@ -172,7 +172,7 @@ Test coverage includes:
 **Ashley Brookman**
 - GitHub: [@as872832](https://github.com/as872832)
 
-## 📄 License
+##  License
 
 MIT License
 
