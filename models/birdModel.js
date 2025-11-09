@@ -1,3 +1,5 @@
+// Bird Observation Model
+// Defines the schema for storing bird sighting data in MongoDB
 import mongoose from 'mongoose';
 
 const birdObservationSchema = new mongoose.Schema({
