@@ -92,6 +92,16 @@ const sampleBirds = [
     longitude: -82.1426,
     observationDate: new Date('2025-09-14T07:23:00Z'),
     isRare: false
+  }{
+    speciesCode: 'rehwoo',
+    commonName: 'Red-headed Woodpecker',
+    scientificName: 'Melanerpes erythrocephalus',
+    observationCount: 2,
+    locationName: 'Sweetwater Wetlands Park',
+    latitude: 29.6744,
+    longitude: -82.3970,
+    observationDate: new Date('2025-09-17T08:45:00Z'),
+    isRare: false
   }
 ];
 
